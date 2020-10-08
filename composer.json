@@ -1,5 +1,5 @@
 {
-  "name": "mercadopago/dx-php",
+  "name": "abrusutmercadopago/dx-php",
   "description": "Mercado Pago PHP SDK",
   "type": "library",
   "homepage": "https://github.com/mercadopago/dx-php",
@@ -24,7 +24,7 @@
   ],
   "require": {
     "php": ">=7.1.0",
-    "doctrine/common": "^2.6",
+    "doctrine/common": "^2.6|^3.0",
     "doctrine/annotations": "^1.8"
   },
   "require-dev": {
